@@ -17,7 +17,7 @@
 <!--%IMP_IMP-->
 | Impact Area       | Description                               | Key Focus                                                      | Implementation Status         |
 | ----------------- | ----------------------------------------- | -------------------------------------------------------------- | ----------------------------- |
-| Learning Effectiveness | Improving student understanding and academic outcomes | Values being pursued - adaptive learning pathways | Complete |
+| FDPIMPLearning Effectiveness | Improving student understanding and academic outcomes | Values being pursued - adaptive learning pathways | Complete |
 | Educational Equity | Ensuring all students benefit regardless of background | Values being pursued - accessibility features and bias monitoring | Complete |
 | Student Agency | Maintaining student autonomy in learning choices | Values being pursued - student control over AI assistance level | Complete |
 | Teacher Support | Enhancing rather than replacing teacher capabilities | Values being pursued - teacher dashboard and override controls | Complete |
@@ -29,7 +29,7 @@
 <!--%USER_STORIES-->
 | Impact Area | User Story | Acceptance Criteria | Status |
 |-------------|------------|-------------------|--------|
-| Learning Effectiveness | As a student, I want personalised learning recommendations so that I can improve in areas where I'm struggling | • AI identifies knowledge gaps with 85% accuracy<br>• Recommendations improve test scores by average 12%<br>• Student engagement metrics show positive trend | Complete |
+| FDPUSLearning Effectiveness | As a student, I want personalised learning recommendations so that I can improve in areas where I'm struggling | • AI identifies knowledge gaps with 85% accuracy<br>• Recommendations improve test scores by average 12%<br>• Student engagement metrics show positive trend | Complete |
 | Educational Equity | As a SEN student, I want accessible learning materials so that I can participate fully in digital learning | • Screen reader compatibility<br>• Adjustable text size and contrast<br>• Alternative input methods supported | Complete |
 | Student Agency | As a student, I want control over AI assistance level so that I can choose when to be challenged | • Students can adjust AI intervention frequency<br>• Option to request hints vs full solutions<br>• Clear indication when AI is helping | Complete |
 | Teacher Support | As a teacher, I want insight into student AI interactions so that I can provide targeted support | • Teacher dashboard shows AI intervention patterns<br>• Alerts for students over-relying on AI<br>• Integration with existing grade books | Complete |
