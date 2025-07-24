@@ -14,7 +14,7 @@ project_info:
 <!--%OP_RISKS-->
 | Risk ID | Impact Area | Risk Description | Current Score | Status | Monitoring Method | Response Actions | Last Review |
 |---------|-------------|------------------|---------------|--------|-------------------|------------------|-------------|
-| OR001 | Educational Equity | AI bias affecting SEN student outcomes | 13 | Yellow | Monthly analysis of learning outcomes by student group | Bias correction algorithms, specialist review | 10-Jul-25 |
+| OR001 | ILMRISKEducational Equity | AI bias affecting SEN student outcomes | 13 | Yellow | Monthly analysis of learning outcomes by student group | Bias correction algorithms, specialist review | 10-Jul-25 |
 | OR002 | Student Agency | Over-reliance on AI assistance reducing independent thinking | 14 | Yellow | Weekly usage pattern analysis, teacher feedback | Usage alerts, reflection prompts, teacher intervention | 08-Jul-25 |
 | OR003 | Privacy Protection | Potential unauthorised access to student data | 11 | Green | Continuous security monitoring, quarterly penetration testing | Immediate access revocation, incident response protocol | 05-Jul-25 |
 | OR004 | Learning Effectiveness | AI providing incorrect or misleading information | 13 | Yellow | Daily content accuracy checks, teacher feedback system | Content correction, algorithm retraining | 09-Jul-25 |
@@ -24,7 +24,7 @@ project_info:
 <!--%OP_MONITORS-->
 | Metric/Indicator | Monitoring Method | Frequency | Responsible | Target/Baseline |
 |------------------|-------------------|-----------|-------------|-----------------|
-| Learning outcome equity across student groups | Statistical analysis of assessment scores by demographic | Monthly | Data Analytics Team | <5% variance between groups |
+| ILMMONLearning outcome equity across student groups | Statistical analysis of assessment scores by demographic | Monthly | Data Analytics Team | <5% variance between groups |
 | Student dependency on AI assistance | Usage analytics and teacher surveys | Weekly | Product Team | <30% of tasks completed with heavy AI assistance |
 | Data security compliance | Automated security scans and audit reports | Continuous/Quarterly | Security Team | Zero breaches, 100% compliance |
 | Content accuracy rates | Teacher reporting and automated fact-checking | Daily | Content Team | >98% accuracy rate |
@@ -36,7 +36,7 @@ project_info:
 <!--%OPS_RESPONSES-->
 | Trigger                      | Response Level      | Immediate Actions            | Escalation        | Timeline          |
 | ---------------------------- | ------------------- | ---------------------------- | ----------------- | ----------------- |
-| Bias detected in learning outcomes | Medium | Suspend affected algorithms, conduct bias review, notify affected schools | Product Director, Ethics Committee | 24 hours |
+| ILMRESPBias detected in learning outcomes | Medium | Suspend affected algorithms, conduct bias review, notify affected schools | Product Director, Ethics Committee | 24 hours |
 | Data security incident | High | Isolate affected systems, activate incident response, notify authorities | CISO, Legal team, DPO | Immediate - 1 hour |
 | Major content accuracy failure | Medium | Remove incorrect content, issue corrections, review quality processes | Content Director, Customer Success | 4 hours |
 | Student safety concern raised | High | Immediate case review, involve safeguarding team, suspend user if needed | Child Protection Officer, Legal | Immediate - 30 minutes |
