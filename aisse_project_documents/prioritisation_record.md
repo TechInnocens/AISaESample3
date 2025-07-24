@@ -31,13 +31,13 @@ See guidance. Initially fill in first three columns of these two tables, then up
 <!--%RISKS_IN-->
 | Impact Area | Risk | Description | Stakeholder Priority | MoSCoW | Rationale |
 | ----------- | ---- | ----------- | -------------------- | ------ | --------- |
-| PRIORISKSEducational Equity | AI bias creating unequal learning outcomes | High | M | Could perpetuate or worsen educational inequalities |
-| Student Agency | Over-reliance on AI reducing independent thinking | High | M | Fundamental concern about learning dependency |
-| Privacy Protection | Unauthorised use of student data | High | M | Legal and safeguarding requirement |
-| Learning Effectiveness | AI providing incorrect information or guidance | High | M | Could harm educational outcomes and trust |
-| Teacher Support | Deskilling of teachers through AI dependency | Medium | S | Long-term professional development concern |
-| Digital Literacy | Students not understanding AI limitations | Medium | S | Important for critical thinking development |
-| Parent Transparency | Lack of understanding about AI decision-making | Low | C | Can be addressed through communication |
+| PRIORISKSEducational Equity | AI bias creating unequal learning outcomes | Could perpetuate or worsen educational inequalities | High | M |
+| Student Agency | Over-reliance on AI reducing independent thinking | Fundamental concern about learning dependency | High | M |
+| Privacy Protection | Unauthorised use of student data | Legal and safeguarding requirement | High | M |
+| Learning Effectiveness | AI providing incorrect information or guidance | Could harm educational outcomes and trust | High | M |
+| Teacher Support | Deskilling of teachers through AI dependency | Long-term professional development concern | Medium | S |
+| Digital Literacy | Students not understanding AI limitations | Important for critical thinking development | Medium | S |
+| Parent Transparency | Lack of understanding about AI decision-making | Can be addressed through communication | Low | C |
 
 ### Tensions between values
 See guidance. Record here any tensions noted in the process of identifying Values and Risks
