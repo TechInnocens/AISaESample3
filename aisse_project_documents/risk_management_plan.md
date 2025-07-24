@@ -33,11 +33,11 @@
 <!--%RISK_REG-->
 | Risk Name | Risk Description | Impact (1-5) | Likelihood (1-5) | Risk Score | Zone | Mitigation Strategy |
 |---------|------------------|---------------|-------------------|------------|------|---------------------|
-| R001 | Specific groups bear costs/risks disproportionately | 4 | 2 | 13 | Y | Quarterly bias testing, SEN specialist review, diverse training data |
-| R002 | System cultivates emotional or social dependencies in users | 3 | 3 | 14 | Y | Usage monitoring, teacher alerts, reflection prompts built-in |
-| R003 | Personal information embedded in user inputs gets exposed | 5 | 1 | 11 | G | Encryption, access controls, regular security audits, incident response plan |
-| R004 | Generates fabricated content (hallucinations) | 4 | 2 | 13 | Y | Content verification process, teacher review system, error reporting |
-| R005 | People do not understand and so don't trust how decisions are made | 2 | 3 | 11 | G | Transparent communication, opt-out options, regular parent surveys |
+| Specific groups bear costs/risks disproportionately | Some students have worse outcomes with the system than others on basis of ethnicity or gender | 4 | 2 | 13 | Y | Quarterly bias testing, SEN specialist review, diverse training data |
+| System cultivates emotional or social dependencies in users | Students come to depend onthe system | 3 | 3 | 14 | Y | Usage monitoring, teacher alerts, reflection prompts built-in |
+| Personal information embedded in user inputs gets exposed | Student data gets revealed in cyberattack | 5 | 1 | 11 | G | Encryption, access controls, regular security audits, incident response plan |
+| Generates fabricated content (hallucinations) | System gives the wrong study information | 4 | 2 | 13 | Y | Content verification process, teacher review system, error reporting |
+| People do not understand and so don't trust how decisions are made | Parents concerned how the system works and threaten boycott | 2 | 3 | 11 | G | Transparent communication, opt-out options, regular parent surveys |
 
 ## Risk Review Schedule
 **Review Frequency:** Monthly risk assessment with quarterly stakeholder review and annual external audit

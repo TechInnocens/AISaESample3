@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "a3ab3fa88df5fd8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0829c8ea6b686292",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22664192ea445022",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aisse_project_documents/prioritisation_record.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "prioritisation_record"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5282024ef6086e40",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6070b10b0db718a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dfd1d4c564a1147",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "503aca80b09fc70b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d18cc5ef32110696",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a20a8e6c0302e428",
+    "type": "split",
+    "children": [
+      {
+        "id": "55918a85f547888e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42f66c2c92ed335d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "aisse_project_documents/prioritisation_record.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for prioritisation_record"
+            }
+          },
+          {
+            "id": "a22b907778e5e77d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "aisse_project_documents/prioritisation_record.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from prioritisation_record"
+            }
+          },
+          {
+            "id": "ffe307a70d85008a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "febf39e37a7bea65",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "aisse_project_documents/prioritisation_record.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of prioritisation_record"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "22664192ea445022",
+  "lastOpenFiles": [
+    "aisse_project_documents/risk_management_plan.md",
+    "aisse_project_documents/prioritisation_record.md"
+  ]
+}
