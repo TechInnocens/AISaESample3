@@ -16,7 +16,7 @@
 <!--%IMP_RISKS-->
 | Impact Area | Description | Key Focus |
 |-------------|-------------|------------|
-| Educational Equity | Ensuring all students benefit regardless of background | Risk mitigation - bias monitoring and correction |
+| RMPIMPEducational Equity | Ensuring all students benefit regardless of background | Risk mitigation - bias monitoring and correction |
 | Student Agency | Maintaining student autonomy in learning choices | Risk mitigation - dependency prevention measures |
 | Privacy Protection | Safeguarding student data and learning records | Risk mitigation - data security and compliance |
 | Learning Effectiveness | Improving student understanding and academic outcomes | Risk mitigation - accuracy monitoring and teacher oversight |
@@ -33,7 +33,7 @@
 <!--%RISK_REG-->
 | Risk ID | Risk Description | Impact (1-5) | Likelihood (1-5) | Risk Score | Zone | Mitigation Strategy |
 |---------|------------------|---------------|-------------------|------------|------|---------------------|
-| R001 | AI bias affecting SEN student outcomes | 4 | 2 | 13 | Y | Quarterly bias testing, SEN specialist review, diverse training data |
+| R001 | RMPRISKSAI bias affecting SEN student outcomes | 4 | 2 | 13 | Y | Quarterly bias testing, SEN specialist review, diverse training data |
 | R002 | Student over-reliance on AI assistance | 3 | 3 | 14 | Y | Usage monitoring, teacher alerts, reflection prompts built-in |
 | R003 | Data breach exposing student information | 5 | 1 | 11 | G | Encryption, access controls, regular security audits, incident response plan |
 | R004 | AI providing incorrect educational content | 4 | 2 | 13 | Y | Content verification process, teacher review system, error reporting |
