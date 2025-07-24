@@ -19,7 +19,7 @@ See guidance. Initially fill in first three columns of these two tables, then up
 <!--%IMPACT_IN-->
 | Impact Area       | Description     | Stakeholder Priority | MoSCoW      | Rationale |
 | ----------------- | --------------- | -------------------- | ----------- | --------- |
-| Learning Effectiveness | Improving student understanding and academic outcomes | High | M | Core educational purpose and key success metric |
+| PRIOIMPLearning Effectiveness | Improving student understanding and academic outcomes | High | M | Core educational purpose and key success metric |
 | Educational Equity | Ensuring all students benefit regardless of background | High | M | Fundamental education principle and legal requirement |
 | Student Agency | Maintaining student autonomy in learning choices | High | M | Essential for healthy development and engagement |
 | Teacher Support | Enhancing rather than replacing teacher capabilities | High | M | Critical for school adoption and educational quality |
@@ -31,7 +31,7 @@ See guidance. Initially fill in first three columns of these two tables, then up
 <!--%RISKS_IN-->
 | Impact Area | Risk | Description | Stakeholder Priority | MoSCoW | Rationale |
 | ----------- | ---- | ----------- | -------------------- | ------ | --------- |
-| Educational Equity | AI bias creating unequal learning outcomes | High | M | Could perpetuate or worsen educational inequalities |
+| PRIORISKSEducational Equity | AI bias creating unequal learning outcomes | High | M | Could perpetuate or worsen educational inequalities |
 | Student Agency | Over-reliance on AI reducing independent thinking | High | M | Fundamental concern about learning dependency |
 | Privacy Protection | Unauthorised use of student data | High | M | Legal and safeguarding requirement |
 | Learning Effectiveness | AI providing incorrect information or guidance | High | M | Could harm educational outcomes and trust |
